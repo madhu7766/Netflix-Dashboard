@@ -1,3 +1,4 @@
+https://github.com/madhu7766/Netflix-Dashboard/blob/main/NETFLIX%20logo.jpg
 
 
 ### 📊 Netflix Dashboard (Power BI)
