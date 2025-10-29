@@ -32,10 +32,6 @@ To visualize Netflix content data and identify:
 * Map → Country-wise distribution
 * Card visuals → KPIs and summary metrics
 
-#### 📂 File Details
-
-* **Netflix.pbix** → Power BI project file
-* Dataset Source: Netflix Titles (from Kaggle or similar public dataset)
 
 #### 🚀 How to Use
 
