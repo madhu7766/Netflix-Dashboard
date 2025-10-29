@@ -43,10 +43,6 @@ To visualize Netflix content data and identify:
 2. Open it in **Power BI Desktop**.
 3. Explore visuals and apply filters to interact with data.
 
-#### 📸 Preview
 
-*(Add screenshots of your dashboard if you have them)*
 
----
 
-Chaho to main tumhare liye **README.md file** bana ke `.md` format me export kar du upload karne ke liye — karu kya?
