@@ -1,4 +1,5 @@
-https://github.com/madhu7766/Netflix-Dashboard/blob/main/NETFLIX%20logo.jpg
+<img width="2226" height="678" alt="logo" src = "https://github.com/madhu7766/Netflix-Dashboard/blob/main/NETFLIX%20logo.jpg" />
+
 
 
 ### 📊 Netflix Dashboard (Power BI)
